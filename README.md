@@ -1,5 +1,5 @@
 # C14
-Projeto de Gerenciamento de Tasks
+Projeto de Gerenciamento de Tarefas
 
 ## Como usar
 
