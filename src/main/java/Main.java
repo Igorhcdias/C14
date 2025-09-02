@@ -1,5 +1,3 @@
-package com.igor.app;
-
 import picocli.CommandLine;
 import picocli.CommandLine.Command;
 
