@@ -1,5 +1,5 @@
 # C14
-Projeto de Gerenciamento de Tasks
+rojeto de Gerenciamento de Tarefas (linha editada na branch de conflito)
 
 ## Como usar
 
